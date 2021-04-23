@@ -5,3 +5,8 @@
 # CreditRisk
 
 End-to-End Machine Learning Classification Project
+
+
+1. References and sources will be added. 
+2. English grammar mistakes will be edited.
+3. Some explanations will be added.
